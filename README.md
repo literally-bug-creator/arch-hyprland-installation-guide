@@ -1,6 +1,6 @@
 # Arch w/ Hyprland installation guide
 
-1. Download Arch Linux Image from [<u>\*official site\*</u>](https://archlinux.org/download/)
+1. Download Arch Linux Image from **[<u>official site</u>](https://archlinux.org/download/)**
 2. Use [<u>Ventoy</u>](https://www.ventoy.net/en/index.html) to make bootable-usb device
 3. Boot from Arch Linux Image and set up it for urself with ***archinstall*** script ![](https://i0.wp.com/www.lorenzobettini.it/wp-content/uploads/2022/07/archinstall-2.png?ssl=1)
 4. **`sudo pacman -Syu`** - to update ur system
